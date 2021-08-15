@@ -1,6 +1,6 @@
-This content is provided by Pedro
-thanks to him
-pedro's YouTube cannel:
+This content is provided by Pedro.
+thanks to him!
+pedro's YouTube channel:
 https://www.youtube.com/watch?v=LlvBzyy-558
 
 # Getting Started with Create React App
